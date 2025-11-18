@@ -1,0 +1,1 @@
+let name='Lahiru';let age=23;function greet(){console.log('Hello '+name+', age '+age);}greet();

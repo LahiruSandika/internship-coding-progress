@@ -1,0 +1,1 @@
+function validateForm(){let email=document.getElementById('email').value;if(email===''){alert('Email required');return false;}alert('Submitted');return true;}
